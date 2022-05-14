@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "all": { "model": "cw3:block/ship_debris_block" }
+  }
+}
